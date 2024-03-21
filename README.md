@@ -66,7 +66,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 ```
 
 ## OUTPUT:
-![](server.png)
-![](client.png)
+![image](https://github.com/karthika28112004/Echoserver/assets/128035087/d4eb55f3-820a-4ea6-b288-4e364396af45)
+![image](https://github.com/karthika28112004/Echoserver/assets/128035087/35d25c9a-0644-4765-b10b-1a4ad7b08de3)
 ## RESULT:
 The program is executed successfully
