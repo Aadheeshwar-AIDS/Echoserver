@@ -20,7 +20,7 @@ Implementation using Python code
 Testing the server and client 
 
 ## PROGRAM:
-### SERVER SIDE:
+### CLIENT SIDE:
 
 ```python
 import socket
@@ -34,7 +34,7 @@ print(f"Received {data!r}")
 
 ```
 
-### CLIENT SIDE:
+### SERVER SIDE:
 ```python
 import socket
 HOST = "127.0.0.1"  # Standard loopback interface address (localhost)
